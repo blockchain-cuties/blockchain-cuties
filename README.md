@@ -5684,7 +5684,7 @@
   <link as="fetch" rel="preload" href="https://tether.to/page-data/app-data.json" crossorigin="anonymous">
   <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="./Tether_files/analytics.js.download"></script>
   <script async="" src="./Tether_files/invisible852e.js.download"></script>
-</head>
+
 
 <body>
   <div id="___gatsby">
@@ -8271,4 +8271,4 @@
 
 
 
-</body></html>
+</body>
